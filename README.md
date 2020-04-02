@@ -3,7 +3,7 @@
 
 **HashTable**
 
-| 599. Minimum Index Sum of Two Lists | [GO]()     |
-| ----------------------------------- | ---------- |
-| **645. Set Mismatch**               | **[GO]()** |
+| 599. Minimum Index Sum of Two Lists | [GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md) |
+| ----------------------------------- | ------------------------------------------------------------ |
+| **645. Set Mismatch**               | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/645.%20Set%20Mismatch.md)** |
 
