@@ -36,8 +36,7 @@
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](
-)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599. Minimum Index Sum of Two Lists.md)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/645. Set Mismatch.md)** |
 | **705. Design Hashset.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/705. Design Hashset.md)** |
 | **706. Design Hashmap.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/706. Design Hashmap.md)** |
