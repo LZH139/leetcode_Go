@@ -36,7 +36,8 @@
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599.Minimum Index Sum of Two Lists.md)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](
+)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/645. Set Mismatch.md)** |
 | **705. Design Hashset.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/705. Design Hashset.md)** |
 | **706. Design Hashmap.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/706. Design Hashmap.md)** |
@@ -48,7 +49,7 @@
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599. Minimum Index Sum of Two Lists.md)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/645. Set Mismatch.md)** |
 | **705. Design Hashset.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/705. Design Hashset.md)** |
 | **706. Design Hashmap.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/706. Design Hashmap.md)** |
