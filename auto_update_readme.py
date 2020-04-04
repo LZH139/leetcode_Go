@@ -54,13 +54,13 @@ for key in tagdict.keys():
     tagtable += "#### "+key + "\n" + head + layout
     for v in sorted(tagdict[key]):
         imfList = tagdict[key][v]
-        tagtable += "| "+strong(imfList[0])+" | "+strong(imfList[1])+" | "+strong("[GO]("+imfList[2]+")")+" |\n"
+        tagtable += "| "+strong(imfList[0])+" | "+strong(imfList[1])+" | "+strong("[GO]("+imfList[2].replace(".", "%2E").replace(" ", "%20")+")")+" |\n"
     tagtable+="\n"
 
 ordertable +="#### Order list"+ "\n" + head + layout
 for v in sorted(orderdict):
     imfList = orderdict[v]
-    ordertable += "| "+strong(imfList[0])+" | "+strong(imfList[1])+" | "+strong("[GO]("+imfList[2]+")")+" |\n"
+    ordertable += "| "+strong(imfList[0])+" | "+strong(imfList[1])+" | "+strong("[GO]("+imfList[2].replace(".", "%2E").replace(" ", "%20")+")")+" |\n"
 ordertable += "\n"
 
 with open("README.md", "r") as f:
