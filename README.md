@@ -1,17 +1,61 @@
-# leetcode_Go
+# Golang Solution For Leetcode
 
-![4a107dd3549e23a2256c76fca7ce307d](https://tva1.sinaimg.cn/large/00831rSTgy1gdemdudz1dj30u00bbq36.jpg)持续更新leeetcode的go解题方案和思路
 
-## HashTable
 
-| Topic                                   | Difficulty |                                                              |
+![4a107dd3549e23a2256c76fca7ce307d](https://tva1.sinaimg.cn/large/00831rSTgy1gdemdudz1dj30u00bbq36.jpg)
+
+## 介绍
+
+这是创建于**2020年4月2日**leetcode的golang题解
+
+主要用于记录我的leetcode解题之路
+
+这个仓库目前由以下**四部分**组成
+
+* guide : 一些个人的 **优化技巧** 和 **总结**，待完善...
+
+* note :  我自己刷lc过程中记录下来的解题思路和代码，题目按leetcode的标签用文件夹分类，文档样式大致如下
+
+  ![image-20200404211053321](https://tva1.sinaimg.cn/large/00831rSTgy1gdi1k0f9c6j31410u0jup.jpg)
+
+  ​		为了避免浪费不必要的时间，我将leetcode的所有题目爬了下来**(不包括付费题目)**，解题过程中所思所得	填空即可，爬虫可以参考我的另一个项目
+
+  ​	**注：题目的著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处**。
+
+* topics : 里面有纯净的leetcode所有题目**(不包括付费题目)**，需要的可以自取作为自己的记录模板
+
+  **注：题目的著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处**。
+
+* src : golang的代码文件夹，同样也是按标签分文件夹整理
+
+另外，auto_update_readme.py 是用于每天更新本readme文档中的传送门部分，同时给更新过的题解文件，添加github代码的跳转链接。
+
+
+
+## Portals >>>
+#### HashTable
+| **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists** | **simple** | [**GO**](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md) |
-| **645. Set Mismatch**                   | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/645.%20Set%20Mismatch.md)** |
-| **705. Design HashSet**                 | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/DesignHashSet)** |
-| **706. Design HashMap**                 | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/DesignHashMap)** |
-| **720. Longest Word in Dictionary**     | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/LongestWordInDictionary)** |
-| **748. Shortest Completing Word**       | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/ShortestCompletingWord)** |
-| **771. Jewels and Stones**              | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/JewelsAndStones)** |
-| **811. Subdomain Visit Count**          | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/tree/master/src/HashTable/SubdomainVisitCount)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.go)** |
+| **645. Set Mismatch.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch.go)** |
+| **705. Design Hashset.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashset/DesignHashset.go)** |
+| **706. Design Hashmap.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashmap/DesignHashmap.go)** |
+| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/LongestWordInDictionary/LongestWordInDictionary.go)** |
+| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord.go)** |
+| **771. Jewels and Stones.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones.go)** |
+| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount.go)** |
+
+#### Order list
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.go)** |
+| **645. Set Mismatch.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch.go)** |
+| **705. Design Hashset.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashset/DesignHashset.go)** |
+| **706. Design Hashmap.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashmap/DesignHashmap.go)** |
+| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/LongestWordInDictionary/LongestWordInDictionary.go)** |
+| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord.go)** |
+| **771. Jewels and Stones.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones.go)** |
+| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github.com/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount.go)** |
+
+## <<< Portals
 
