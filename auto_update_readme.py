@@ -16,7 +16,7 @@ def strong(str):
 tagdict = {}
 orderdict = {}
 
-link = "https://github.com/LZH139/leetcode_Go/blob/master/src"
+link = "https://github.com/LZH139/leetcode_Go/blob/master/note"
 for root, dirs, files in os.walk(os.getcwd()+"/note"):
     for file in files:
         path = os.path.join(root, file)
@@ -32,10 +32,9 @@ for root, dirs, files in os.walk(os.getcwd()+"/note"):
                 tag = templist[-3]
                 difficulty = templist[-2]
                 topicName = templist[-1]
-                filename = construct_name(index[topicName.split(".")[1][1:]])
                 topicOrder = topicName.split(".")[0]
 
-                githublink = link + "/" + tag + "/" + difficulty + "/" + filename + "/" + filename + ".go"
+                githublink = link + "/" + tag + "/" + difficulty + "/" + topicName
 
                 content = content.replace("[代码文件]()", "[代码文件]("+githublink+")")
                 f = open(os.path.join(root, file), "w+")
