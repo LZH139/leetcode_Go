@@ -1,0 +1,5 @@
+package CompareStringsByFrequencyOfTheSmallestCharacter
+
+func numSmallerByFrequency(queries []string, words []string) []int {
+
+}
