@@ -44,6 +44,7 @@
 | **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/748%2E%20Shortest%20Completing%20Word%2Emd)** |
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
+| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
 
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -56,6 +57,7 @@
 | **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/748%2E%20Shortest%20Completing%20Word%2Emd)** |
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
+| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
 
 ## <<< Portals
 
