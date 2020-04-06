@@ -34,9 +34,9 @@ for root, dirs, files in os.walk(os.getcwd()+"/note"):
                 topicName = templist[-1]
                 topicOrder = topicName.split(".")[0]
 
-                githublink = link + "/" + tag + "/" + difficulty + "/" + topicName
+                githublink = link + "/" + tag + "/" + difficulty + "/" + topicName.replace(".", "%2E").replace(" ", "%20")
 
-                content = content.replace("[代码文件]()", "[代码文件]("+githublink.replace(".", "%2E").replace(" ", "%20")+")")
+                content = content.replace("[代码文件]()", "[代码文件]("+githublink+")")
                 f = open(os.path.join(root, file), "w+")
                 f.write(content)
                 f.close()
