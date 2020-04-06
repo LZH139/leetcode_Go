@@ -41,7 +41,6 @@
 
 
 ## Portals >>>
-
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
@@ -54,6 +53,8 @@
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
+| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
+| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
 
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -67,6 +68,8 @@
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
+| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
+| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
 
 ## <<< Portals
 
