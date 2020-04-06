@@ -20,14 +20,14 @@ func Test_isAlienSorted(t *testing.T) {
 			},
 			want:true,
 		},
-		//{
-		//	name:"test2",
-		//	args:args{
-		//		words: []string{"word", "world", "row"},
-		//		order: "worldabcefghijkmnpqstuvxyz",
-		//	},
-		//	want:false,
-		//},
+		{
+			name:"test2",
+			args:args{
+				words: []string{"word", "world", "row"},
+				order: "worldabcefghijkmnpqstuvxyz",
+			},
+			want:false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

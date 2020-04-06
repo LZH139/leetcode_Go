@@ -32,6 +32,14 @@
 
 
 
+## 小技巧
+
+[golang小技巧]()
+
+[提速小技巧]()
+
+
+
 ## Portals >>>
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
