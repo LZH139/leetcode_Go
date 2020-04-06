@@ -55,6 +55,11 @@
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
+| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/970%2E%20Powerful%20Integers%2Emd)** |
+| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1078%2E%20Occurrences%20After%20Bigram%2Emd)** |
+| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1189%2E%20Maximum%20Number%20of%20Balloons%2Emd)** |
+| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1207%2E%20Unique%20Number%20of%20Occurrences%2Emd)** |
+| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/面试题50%2E%20第一个只出现一次的字符%20%20LCOF%2Emd)** |
 
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -70,6 +75,11 @@
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
+| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/970%2E%20Powerful%20Integers%2Emd)** |
+| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1078%2E%20Occurrences%20After%20Bigram%2Emd)** |
+| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1189%2E%20Maximum%20Number%20of%20Balloons%2Emd)** |
+| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1207%2E%20Unique%20Number%20of%20Occurrences%2Emd)** |
+| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/面试题50%2E%20第一个只出现一次的字符%20%20LCOF%2Emd)** |
 
 ## <<< Portals
 

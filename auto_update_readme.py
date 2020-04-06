@@ -1,5 +1,6 @@
 import os
 from index import *
+import re
 
 
 def construct_name(slug):
@@ -34,9 +35,14 @@ for root, dirs, files in os.walk(os.getcwd()+"/note"):
                 topicName = templist[-1]
                 topicOrder = topicName.split(".")[0]
 
+                # 面试题的序列包含中文字符，直接让其排到最后
+                if not topicOrder.isdigit():
+                    topicOrder = 100000
+
                 githublink = link + "/" + tag + "/" + difficulty + "/" + topicName.replace(".", "%2E").replace(" ", "%20")
 
-                content = content.replace("[代码文件]()", "[代码文件]("+githublink+")")
+                replaceplace = re.findall("\[代码文件\]\(.*\)", content)[0]
+                content = content.replace(replaceplace, "[代码文件](" + githublink + ")")
                 f = open(os.path.join(root, file), "w+")
                 f.write(content)
                 f.close()
@@ -63,11 +69,11 @@ for v in sorted(orderdict):
     ordertable += "| "+strong(imfList[0])+" | "+strong(imfList[1])+" | "+strong("[GO]("+imfList[2].replace(".", "%2E").replace(" ", "%20")+")")+" |\n"
 ordertable += "\n"
 
-with open("README.md", "r") as f:
+with open("../leetcode_Go/README.md", "r") as f:
     content = f.read()
 
 content = content.split("Portals")
 content = content[0] + "Portals >>>\n" + tagtable + ordertable + "## <<< Portals" + content[2]
 
-with open("README.md", "w+") as f:
+with open("../leetcode_Go/README.md", "w+") as f:
     f.write(content)
