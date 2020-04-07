@@ -42,14 +42,14 @@
 
 ## Portals >>>
 #### BinarySearch
-|      |      |      |
+| **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| **278. First Bad Version.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/FirstBadVersion/FirstBadVersion%2Ego)** |
+| **367. Valid Perfect Square.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ValidPerfectSquare/ValidPerfectSquare%2Ego)** |
+| **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/GuessNumberHigherOrLower/GuessNumberHigherOrLower%2Ego)** |
+| **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/IsSubsequence/IsSubsequence%2Ego)** |
+| **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ArrangingCoins/ArrangingCoins%2Ego)** |
+| **744. Find Smallest Letter Greater Than Target.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/FindSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget%2Ego)** |
 
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
