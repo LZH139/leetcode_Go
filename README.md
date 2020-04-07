@@ -44,42 +44,42 @@
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599%2E%20Minimum%20Index%20Sum%20of%20Two%20Lists%2Emd)** |
-| **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/645%2E%20Set%20Mismatch%2Emd)** |
-| **705. Design Hashset.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/705%2E%20Design%20Hashset%2Emd)** |
-| **706. Design Hashmap.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/706%2E%20Design%20Hashmap%2Emd)** |
-| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/720%2E%20Longest%20Word%20in%20Dictionary%2Emd)** |
-| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/748%2E%20Shortest%20Completing%20Word%2Emd)** |
-| **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
-| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
-| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
-| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
-| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
-| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/970%2E%20Powerful%20Integers%2Emd)** |
-| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1078%2E%20Occurrences%20After%20Bigram%2Emd)** |
-| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1189%2E%20Maximum%20Number%20of%20Balloons%2Emd)** |
-| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1207%2E%20Unique%20Number%20of%20Occurrences%2Emd)** |
-| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/面试题50%2E%20第一个只出现一次的字符%20%20LCOF%2Emd)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists%2Ego)** |
+| **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch%2Ego)** |
+| **705. Design Hashset.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashset/DesignHashset%2Ego)** |
+| **706. Design Hashmap.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashmap/DesignHashmap%2Ego)** |
+| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/LongestWordInDictionary/LongestWordInDictionary%2Ego)** |
+| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord%2Ego)** |
+| **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones%2Ego)** |
+| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount%2Ego)** |
+| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences%2Ego)** |
+| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
+| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
+| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/PowerfulIntegers/PowerfulIntegers%2Ego)** |
+| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/OccurrencesAfterBigram/OccurrencesAfterBigram%2Ego)** |
+| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MaximumNumberOfBalloons/MaximumNumberOfBalloons%2Ego)** |
+| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences%2Ego)** |
+| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DiYiGeZhiChuXianYiCiDeZiFuLcof/DiYiGeZhiChuXianYiCiDeZiFuLcof%2Ego)** |
 
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
-| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/599%2E%20Minimum%20Index%20Sum%20of%20Two%20Lists%2Emd)** |
-| **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/645%2E%20Set%20Mismatch%2Emd)** |
-| **705. Design Hashset.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/705%2E%20Design%20Hashset%2Emd)** |
-| **706. Design Hashmap.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/706%2E%20Design%20Hashmap%2Emd)** |
-| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/720%2E%20Longest%20Word%20in%20Dictionary%2Emd)** |
-| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/748%2E%20Shortest%20Completing%20Word%2Emd)** |
-| **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/771%2E%20Jewels%20and%20Stones%2Emd)** |
-| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/811%2E%20Subdomain%20Visit%20Count%2Emd)** |
-| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/884%2E%20Uncommon%20Words%20from%20Two%20Sentences%2Emd)** |
-| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/953%2E%20Verifying%20an%20Alien%20Dictionary%2Emd)** |
-| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/961%2E%20N-Repeated%20Element%20in%20Size%202N%20Array%2Emd)** |
-| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/970%2E%20Powerful%20Integers%2Emd)** |
-| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1078%2E%20Occurrences%20After%20Bigram%2Emd)** |
-| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1189%2E%20Maximum%20Number%20of%20Balloons%2Emd)** |
-| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1207%2E%20Unique%20Number%20of%20Occurrences%2Emd)** |
-| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/面试题50%2E%20第一个只出现一次的字符%20%20LCOF%2Emd)** |
+| **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists%2Ego)** |
+| **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch%2Ego)** |
+| **705. Design Hashset.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashset/DesignHashset%2Ego)** |
+| **706. Design Hashmap.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashmap/DesignHashmap%2Ego)** |
+| **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/LongestWordInDictionary/LongestWordInDictionary%2Ego)** |
+| **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord%2Ego)** |
+| **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones%2Ego)** |
+| **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount%2Ego)** |
+| **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences%2Ego)** |
+| **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
+| **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
+| **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/PowerfulIntegers/PowerfulIntegers%2Ego)** |
+| **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/OccurrencesAfterBigram/OccurrencesAfterBigram%2Ego)** |
+| **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MaximumNumberOfBalloons/MaximumNumberOfBalloons%2Ego)** |
+| **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences%2Ego)** |
+| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DiYiGeZhiChuXianYiCiDeZiFuLcof/DiYiGeZhiChuXianYiCiDeZiFuLcof%2Ego)** |
 
 ## <<< Portals
 

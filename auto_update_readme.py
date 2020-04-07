@@ -17,41 +17,42 @@ def strong(str):
 tagdict = {}
 orderdict = {}
 
-link = "https://github.com/LZH139/leetcode_Go/blob/master/note"
+link = "https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/"
 for root, dirs, files in os.walk(os.getcwd()+"/note"):
     for file in files:
         path = os.path.join(root, file)
         if path.split(".")[-1] == "md":
-            f = open(os.path.join(root, file), "r", encoding='utf-8')
-            content = f.read()
-            f.close()
-            if content.find("```go\n\n\n```") == -1:
+            with open(os.path.join(root, file), "r", encoding='utf-8') as f:
+                content = f.read()
 
-                # 更新笔记里的项目文件
-                templist = path.split("/")
+                if content.find("```go\n\n\n```") == -1:
 
-                tag = templist[-3]
-                difficulty = templist[-2]
-                topicName = templist[-1]
-                topicOrder = topicName.split(".")[0]
+                    # 更新笔记里的项目文件链接
+                    templist = path.split("/")
 
-                # 面试题的序列包含中文字符，直接让其排到最后
-                if not topicOrder.isdigit():
-                    topicOrder = 100000
+                    tag = templist[-3]
+                    difficulty = templist[-2]
+                    noteFileName = templist[-1]
+                    topicOrder = noteFileName.split(".")[0]
+                    codeFileNme = construct_name(index[noteFileName.split(".")[-2].strip()])
 
-                githublink = link + "/" + tag + "/" + difficulty + "/" + topicName.replace(".", "%2E").replace(" ", "%20")
+                    # 面试题的序列包含中文字符，直接让其排到最后
+                    if not topicOrder.isdigit():
+                        topicOrder = 100000
 
-                replaceplace = re.findall("\[代码文件\]\(.*\)", content)[0]
-                content = content.replace(replaceplace, "[代码文件](" + githublink + ")")
-                f = open(os.path.join(root, file), "w+")
-                f.write(content)
-                f.close()
+                    noteFileLink = link + noteFileName.replace(".", "%2E").replace(" ", "%20")
+                    codeFileLink = link.replace("note", "src") + codeFileNme + "/" + codeFileNme+".go"
 
-                if tag in tagdict:
-                    tagdict[tag][int(topicOrder)] = [topicName, difficulty, githublink]
-                else:
-                    tagdict[tag] = {int(topicOrder): [topicName, difficulty, githublink]}
-                orderdict[int(topicOrder)] = [topicName, difficulty, githublink]
+                    replaceplace = re.findall("\[代码文件\]\(.*\)", content)[0]
+                    content = content.replace(replaceplace, "[代码文件](" + codeFileLink + ")")
+                    with open(os.path.join(root, file), "w+") as f:
+                        f.write(content)
+
+                    if tag in tagdict:
+                        tagdict[tag][int(topicOrder)] = [noteFileName, difficulty, codeFileLink]
+                    else:
+                        tagdict[tag] = {int(topicOrder): [noteFileName, difficulty, codeFileLink]}
+                    orderdict[int(topicOrder)] = [noteFileName, difficulty, codeFileLink]
 
 tagtable = ""
 ordertable = ""
@@ -77,3 +78,5 @@ content = content[0] + "Portals >>>\n" + tagtable + ordertable + "## <<< Portals
 
 with open("../leetcode_Go/README.md", "w+") as f:
     f.write(content)
+
+print("Portals >>>\n" + tagtable + ordertable + "## <<< Portals")
