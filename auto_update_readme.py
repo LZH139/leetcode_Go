@@ -17,7 +17,7 @@ def strong(str):
 tagdict = {}
 orderdict = {}
 
-link = "https://github.com/LZH139/leetcode_Go/blob/master/note/HashTable/simple/"
+link = "https://github.com/LZH139/leetcode_Go/blob/master/note"
 for root, dirs, files in os.walk(os.getcwd()+"/note"):
     for file in files:
         path = os.path.join(root, file)
@@ -40,8 +40,8 @@ for root, dirs, files in os.walk(os.getcwd()+"/note"):
                     if not topicOrder.isdigit():
                         topicOrder = 100000
 
-                    noteFileLink = link + noteFileName.replace(".", "%2E").replace(" ", "%20")
-                    codeFileLink = link.replace("note", "src") + codeFileNme + "/" + codeFileNme+".go"
+                    noteFileLink = link + "/" + tag + "/" + difficulty + "/"+ noteFileName.replace(".", "%2E").replace(" ", "%20")
+                    codeFileLink = link.replace("note", "src") + "/" + tag + "/" + difficulty + "/" +codeFileNme + "/" + codeFileNme+".go"
 
                     replaceplace = re.findall("\[代码文件\]\(.*\)", content)[0]
                     content = content.replace(replaceplace, "[代码文件](" + codeFileLink + ")")
