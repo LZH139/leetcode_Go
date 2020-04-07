@@ -49,9 +49,9 @@ for root, dirs, files in os.walk(os.getcwd()+"/note"):
                         f.write(content)
 
                     if tag in tagdict:
-                        tagdict[tag][int(topicOrder)] = [noteFileName, difficulty, codeFileLink]
+                        tagdict[tag][int(topicOrder)] = [noteFileName, difficulty, noteFileLink]
                     else:
-                        tagdict[tag] = {int(topicOrder): [noteFileName, difficulty, codeFileLink]}
+                        tagdict[tag] = {int(topicOrder): [noteFileName, difficulty, noteFileLink]}
                     orderdict[int(topicOrder)] = [noteFileName, difficulty, codeFileLink]
 
 tagtable = ""
