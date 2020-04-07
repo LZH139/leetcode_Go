@@ -34,9 +34,9 @@
 
 ## 小技巧
 
-[golang小技巧](https://github.com/LZH139/leetcode_Go/blob/master/guide/golang%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
+**[golang小技巧](https://github.com/LZH139/leetcode_Go/blob/master/guide/golang%E5%B0%8F%E6%8A%80%E5%B7%A7.md)**
 
-[提速小技巧](https://github.com/LZH139/leetcode_Go/blob/master/guide/%E6%8F%90%E9%80%9F%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
+**[提速小技巧](https://github.com/LZH139/leetcode_Go/blob/master/guide/%E6%8F%90%E9%80%9F%E5%B0%8F%E6%8A%80%E5%B7%A7.md)**
 
 
 
