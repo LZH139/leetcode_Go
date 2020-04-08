@@ -49,7 +49,9 @@
 | **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/374%2E%20Guess%20Number%20Higher%20or%20Lower%2Emd)** |
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/392%2E%20Is%20Subsequence%2Emd)** |
 | **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/441%2E%20Arranging%20Coins%2Emd)** |
+| **704. Binary Search.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/704%2E%20Binary%20Search%2Emd)** |
 | **744. Find Smallest Letter Greater Than Target.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/744%2E%20Find%20Smallest%20Letter%20Greater%20Than%20Target%2Emd)** |
+| **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/852%2E%20Peak%20Index%20in%20a%20Mountain%20Array%2Emd)** |
 
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -81,6 +83,7 @@
 | **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ArrangingCoins/ArrangingCoins%2Ego)** |
 | **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists%2Ego)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch%2Ego)** |
+| **704. Binary Search.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/BinarySearch/BinarySearch%2Ego)** |
 | **705. Design Hashset.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashset/DesignHashset%2Ego)** |
 | **706. Design Hashmap.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DesignHashmap/DesignHashmap%2Ego)** |
 | **720. Longest Word in Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/LongestWordInDictionary/LongestWordInDictionary%2Ego)** |
@@ -88,6 +91,7 @@
 | **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord%2Ego)** |
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones%2Ego)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount%2Ego)** |
+| **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/PeakIndexInAMountainArray/PeakIndexInAMountainArray%2Ego)** |
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences%2Ego)** |
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
