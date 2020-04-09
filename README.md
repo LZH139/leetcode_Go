@@ -52,6 +52,16 @@
 | **704. Binary Search.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/704%2E%20Binary%20Search%2Emd)** |
 | **744. Find Smallest Letter Greater Than Target.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/744%2E%20Find%20Smallest%20Letter%20Greater%20Than%20Target%2Emd)** |
 | **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/852%2E%20Peak%20Index%20in%20a%20Mountain%20Array%2Emd)** |
+| **面试题11. 旋转数组的最小数字  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/面试题11%2E%20旋转数组的最小数字%20%20LCOF%2Emd)** |
+
+#### Greedy
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **455. Assign Cookies.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/455%2E%20Assign%20Cookies%2Emd)** |
+| **860. Lemonade Change.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/860%2E%20Lemonade%20Change%2Emd)** |
+| **944. Delete Columns to Make Sorted.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/944%2E%20Delete%20Columns%20to%20Make%20Sorted%2Emd)** |
+| **1005. Maximize Sum Of Array After K Negations.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1005%2E%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations%2Emd)** |
+| **1029. Two City Scheduling.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1029%2E%20Two%20City%20Scheduling%2Emd)** |
 
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -81,6 +91,7 @@
 | **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/GuessNumberHigherOrLower/GuessNumberHigherOrLower%2Ego)** |
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/IsSubsequence/IsSubsequence%2Ego)** |
 | **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ArrangingCoins/ArrangingCoins%2Ego)** |
+| **455. Assign Cookies.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/AssignCookies/AssignCookies%2Ego)** |
 | **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists%2Ego)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch%2Ego)** |
 | **704. Binary Search.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/BinarySearch/BinarySearch%2Ego)** |
@@ -92,10 +103,14 @@
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones%2Ego)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount%2Ego)** |
 | **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/PeakIndexInAMountainArray/PeakIndexInAMountainArray%2Ego)** |
+| **860. Lemonade Change.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/LemonadeChange/LemonadeChange%2Ego)** |
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences%2Ego)** |
+| **944. Delete Columns to Make Sorted.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted%2Ego)** |
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
 | **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/PowerfulIntegers/PowerfulIntegers%2Ego)** |
+| **1005. Maximize Sum Of Array After K Negations.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations%2Ego)** |
+| **1029. Two City Scheduling.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/TwoCityScheduling/TwoCityScheduling%2Ego)** |
 | **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/OccurrencesAfterBigram/OccurrencesAfterBigram%2Ego)** |
 | **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MaximumNumberOfBalloons/MaximumNumberOfBalloons%2Ego)** |
 | **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences%2Ego)** |
