@@ -4,6 +4,7 @@ index = {
 "Word Rectangle LCCI" : "word-rectangle-lcci",
 "Sum Swap LCCI" : "sum-swap-lcci",
 "T9 LCCI" : "t9-lcci",
+"Minimum Subsequence in Non-Increasing Order" : "minimum-subsequence-in-non-increasing-order",
 "Max Submatrix LCCI" : "max-submatrix-lcci",
 "Max Black Square LCCI" : "max-black-square-lcci",
 "Missing Two LCCI" : "missing-two-lcci",

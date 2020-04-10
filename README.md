@@ -41,6 +41,12 @@
 
 
 ## Portals >>>
+#### TwoPointers
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **844. Backspace String Compare.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/TwoPointers/simple/844%2E%20Backspace%20String%20Compare%2Emd)** |
+| **925. Long Pressed Name.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/TwoPointers/simple/925%2E%20Long%20Pressed%20Name%2Emd)** |
+
 #### BinarySearch
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
@@ -54,6 +60,11 @@
 | **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/852%2E%20Peak%20Index%20in%20a%20Mountain%20Array%2Emd)** |
 | **面试题11. 旋转数组的最小数字  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BinarySearch/simple/面试题11%2E%20旋转数组的最小数字%20%20LCOF%2Emd)** |
 
+#### Backtracking
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **784. Letter Case Permutation.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Backtracking/simple/784%2E%20Letter%20Case%20Permutation%2Emd)** |
+
 #### Greedy
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
@@ -62,6 +73,9 @@
 | **944. Delete Columns to Make Sorted.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/944%2E%20Delete%20Columns%20to%20Make%20Sorted%2Emd)** |
 | **1005. Maximize Sum Of Array After K Negations.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1005%2E%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations%2Emd)** |
 | **1029. Two City Scheduling.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1029%2E%20Two%20City%20Scheduling%2Emd)** |
+| **1046. Last Stone Weight.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1046%2E%20Last%20Stone%20Weight%2Emd)** |
+| **1221. Split a String in Balanced Strings.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1221%2E%20Split%20a%20String%20in%20Balanced%20Strings%2Emd)** |
+| **1403. Minimum Subsequence in Non-Increasing Order.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Greedy/simple/1403%2E%20Minimum%20Subsequence%20in%20Non-Increasing%20Order%2Emd)** |
 
 #### HashTable
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -83,6 +97,11 @@
 | **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/1207%2E%20Unique%20Number%20of%20Occurrences%2Emd)** |
 | **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/HashTable/simple/面试题50%2E%20第一个只出现一次的字符%20%20LCOF%2Emd)** |
 
+#### Stack
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **496. Next Greater Element I.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Stack/simple/496%2E%20Next%20Greater%20Element%20I%2Emd)** |
+
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
@@ -92,6 +111,7 @@
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/IsSubsequence/IsSubsequence%2Ego)** |
 | **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ArrangingCoins/ArrangingCoins%2Ego)** |
 | **455. Assign Cookies.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/AssignCookies/AssignCookies%2Ego)** |
+| **496. Next Greater Element I.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Stack/simple/NextGreaterElementI/NextGreaterElementI%2Ego)** |
 | **599. Minimum Index Sum of Two Lists.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists%2Ego)** |
 | **645. Set Mismatch.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SetMismatch/SetMismatch%2Ego)** |
 | **704. Binary Search.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/BinarySearch/BinarySearch%2Ego)** |
@@ -101,19 +121,25 @@
 | **744. Find Smallest Letter Greater Than Target.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/FindSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget%2Ego)** |
 | **748. Shortest Completing Word.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/ShortestCompletingWord/ShortestCompletingWord%2Ego)** |
 | **771. Jewels and Stones.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/JewelsAndStones/JewelsAndStones%2Ego)** |
+| **784. Letter Case Permutation.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Backtracking/simple/LetterCasePermutation/LetterCasePermutation%2Ego)** |
 | **811. Subdomain Visit Count.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/SubdomainVisitCount/SubdomainVisitCount%2Ego)** |
+| **844. Backspace String Compare.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/TwoPointers/simple/BackspaceStringCompare/BackspaceStringCompare%2Ego)** |
 | **852. Peak Index in a Mountain Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/PeakIndexInAMountainArray/PeakIndexInAMountainArray%2Ego)** |
 | **860. Lemonade Change.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/LemonadeChange/LemonadeChange%2Ego)** |
 | **884. Uncommon Words from Two Sentences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences%2Ego)** |
+| **925. Long Pressed Name.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/TwoPointers/simple/LongPressedName/LongPressedName%2Ego)** |
 | **944. Delete Columns to Make Sorted.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted%2Ego)** |
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
 | **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/PowerfulIntegers/PowerfulIntegers%2Ego)** |
 | **1005. Maximize Sum Of Array After K Negations.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations%2Ego)** |
 | **1029. Two City Scheduling.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/TwoCityScheduling/TwoCityScheduling%2Ego)** |
+| **1046. Last Stone Weight.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/LastStoneWeight/LastStoneWeight%2Ego)** |
 | **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/OccurrencesAfterBigram/OccurrencesAfterBigram%2Ego)** |
 | **1189. Maximum Number of Balloons.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/MaximumNumberOfBalloons/MaximumNumberOfBalloons%2Ego)** |
 | **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences%2Ego)** |
+| **1221. Split a String in Balanced Strings.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/SplitAStringInBalancedStrings/SplitAStringInBalancedStrings%2Ego)** |
+| **1403. Minimum Subsequence in Non-Increasing Order.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/MinimumSubsequenceInNonIncreasingOrder/MinimumSubsequenceInNonIncreasingOrder%2Ego)** |
 | **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DiYiGeZhiChuXianYiCiDeZiFuLcof/DiYiGeZhiChuXianYiCiDeZiFuLcof%2Ego)** |
 
 ## <<< Portals
