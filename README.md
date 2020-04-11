@@ -41,6 +41,17 @@
 
 
 ## Portals >>>
+#### BitManipulation
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **191. Number of 1 Bits.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BitManipulation/simple/191%2E%20Number%20of%201%20Bits%2Emd)** |
+| **231. Power of Two.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/BitManipulation/simple/231%2E%20Power%20of%20Two%2Emd)** |
+
+#### Sort
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **976. Largest Perimeter Triangle.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Sort/simple/976%2E%20Largest%20Perimeter%20Triangle%2Emd)** |
+
 #### TwoPointers
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
@@ -64,6 +75,11 @@
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
 | **784. Letter Case Permutation.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Backtracking/simple/784%2E%20Letter%20Case%20Permutation%2Emd)** |
+
+#### Minimax
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **292. Nim Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Minimax/simple/292%2E%20Nim%20Game%2Emd)** |
 
 #### Greedy
 | **Topic**                                   | **Difficulty** |                                                              |
@@ -102,10 +118,25 @@
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
 | **496. Next Greater Element I.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/Stack/simple/496%2E%20Next%20Greater%20Element%20I%2Emd)** |
 
+#### DynamicProgramming
+| **Topic**                                   | **Difficulty** |                                                              |
+| :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **70. Climbing Stairs.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/70%2E%20Climbing%20Stairs%2Emd)** |
+| **198. House Robber.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/198%2E%20House%20Robber%2Emd)** |
+| **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/303%2E%20Range%20Sum%20Query%20-%20Immutable%2Emd)** |
+| **1025. Divisor Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/1025%2E%20Divisor%20Game%2Emd)** |
+| **面试题 17.16. The Masseuse LCCI.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/面试题%2017%2E16%2E%20The%20Masseuse%20LCCI%2Emd)** |
+
 #### Order list
 | **Topic**                                   | **Difficulty** |                                                              |
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
+| **70. Climbing Stairs.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/ClimbingStairs/ClimbingStairs%2Ego)** |
+| **191. Number of 1 Bits.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BitManipulation/simple/NumberOf1Bits/NumberOf1Bits%2Ego)** |
+| **198. House Robber.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/HouseRobber/HouseRobber%2Ego)** |
+| **231. Power of Two.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BitManipulation/simple/PowerOfTwo/PowerOfTwo%2Ego)** |
 | **278. First Bad Version.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/FirstBadVersion/FirstBadVersion%2Ego)** |
+| **292. Nim Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Minimax/simple/NimGame/NimGame%2Ego)** |
+| **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/RangeSumQueryImmutable/RangeSumQueryImmutable%2Ego)** |
 | **367. Valid Perfect Square.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ValidPerfectSquare/ValidPerfectSquare%2Ego)** |
 | **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/GuessNumberHigherOrLower/GuessNumberHigherOrLower%2Ego)** |
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/IsSubsequence/IsSubsequence%2Ego)** |
@@ -132,7 +163,9 @@
 | **953. Verifying an Alien Dictionary.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/VerifyingAnAlienDictionary/VerifyingAnAlienDictionary%2Ego)** |
 | **961. N-Repeated Element in Size 2N Array.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/NRepeatedElementInSize2nArray/NRepeatedElementInSize2nArray%2Ego)** |
 | **970. Powerful Integers.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/PowerfulIntegers/PowerfulIntegers%2Ego)** |
+| **976. Largest Perimeter Triangle.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Sort/simple/LargestPerimeterTriangle/LargestPerimeterTriangle%2Ego)** |
 | **1005. Maximize Sum Of Array After K Negations.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations%2Ego)** |
+| **1025. Divisor Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/DivisorGame/DivisorGame%2Ego)** |
 | **1029. Two City Scheduling.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/TwoCityScheduling/TwoCityScheduling%2Ego)** |
 | **1046. Last Stone Weight.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/LastStoneWeight/LastStoneWeight%2Ego)** |
 | **1078. Occurrences After Bigram.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/OccurrencesAfterBigram/OccurrencesAfterBigram%2Ego)** |
@@ -140,7 +173,7 @@
 | **1207. Unique Number of Occurrences.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences%2Ego)** |
 | **1221. Split a String in Balanced Strings.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/SplitAStringInBalancedStrings/SplitAStringInBalancedStrings%2Ego)** |
 | **1403. Minimum Subsequence in Non-Increasing Order.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/MinimumSubsequenceInNonIncreasingOrder/MinimumSubsequenceInNonIncreasingOrder%2Ego)** |
-| **面试题50. 第一个只出现一次的字符  LCOF.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/HashTable/simple/DiYiGeZhiChuXianYiCiDeZiFuLcof/DiYiGeZhiChuXianYiCiDeZiFuLcof%2Ego)** |
+| **面试题 17.16. The Masseuse LCCI.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/TheMasseuseLcci/TheMasseuseLcci%2Ego)** |
 
 ## <<< Portals
 
