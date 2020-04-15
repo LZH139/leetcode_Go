@@ -123,7 +123,9 @@
 | :-------------------------------------- | :--------: | :----------------------------------------------------------: |
 | **70. Climbing Stairs.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/70%2E%20Climbing%20Stairs%2Emd)** |
 | **198. House Robber.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/198%2E%20House%20Robber%2Emd)** |
+| **279. Perfect Squares.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/279%2E%20Perfect%20Squares%2Emd)** |
 | **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/303%2E%20Range%20Sum%20Query%20-%20Immutable%2Emd)** |
+| **309. Best Time to Buy and Sell Stock with Cooldown.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/309%2E%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown%2Emd)** |
 | **1025. Divisor Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/1025%2E%20Divisor%20Game%2Emd)** |
 | **面试题 17.16. The Masseuse LCCI.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/面试题%2017%2E16%2E%20The%20Masseuse%20LCCI%2Emd)** |
 
@@ -135,8 +137,10 @@
 | **198. House Robber.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/HouseRobber/HouseRobber%2Ego)** |
 | **231. Power of Two.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BitManipulation/simple/PowerOfTwo/PowerOfTwo%2Ego)** |
 | **278. First Bad Version.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/FirstBadVersion/FirstBadVersion%2Ego)** |
+| **279. Perfect Squares.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/PerfectSquares/PerfectSquares%2Ego)** |
 | **292. Nim Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Minimax/simple/NimGame/NimGame%2Ego)** |
 | **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/RangeSumQueryImmutable/RangeSumQueryImmutable%2Ego)** |
+| **309. Best Time to Buy and Sell Stock with Cooldown.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/BestTimeToBuyAndSellStockWithCooldown/BestTimeToBuyAndSellStockWithCooldown%2Ego)** |
 | **367. Valid Perfect Square.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ValidPerfectSquare/ValidPerfectSquare%2Ego)** |
 | **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/GuessNumberHigherOrLower/GuessNumberHigherOrLower%2Ego)** |
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/IsSubsequence/IsSubsequence%2Ego)** |
