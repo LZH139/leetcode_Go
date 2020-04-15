@@ -126,6 +126,10 @@
 | **279. Perfect Squares.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/279%2E%20Perfect%20Squares%2Emd)** |
 | **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/303%2E%20Range%20Sum%20Query%20-%20Immutable%2Emd)** |
 | **309. Best Time to Buy and Sell Stock with Cooldown.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/309%2E%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown%2Emd)** |
+| **338. Counting Bits.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/338%2E%20Counting%20Bits%2Emd)** |
+| **343. Integer Break.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/343%2E%20Integer%20Break%2Emd)** |
+| **357. Count Numbers with Unique Digits.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/357%2E%20Count%20Numbers%20with%20Unique%20Digits%2Emd)** |
+| **375. Guess Number Higher or Lower II.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/medium/375%2E%20Guess%20Number%20Higher%20or%20Lower%20II%2Emd)** |
 | **1025. Divisor Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/1025%2E%20Divisor%20Game%2Emd)** |
 | **面试题 17.16. The Masseuse LCCI.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/note/DynamicProgramming/simple/面试题%2017%2E16%2E%20The%20Masseuse%20LCCI%2Emd)** |
 
@@ -141,8 +145,12 @@
 | **292. Nim Game.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Minimax/simple/NimGame/NimGame%2Ego)** |
 | **303. Range Sum Query - Immutable.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/simple/RangeSumQueryImmutable/RangeSumQueryImmutable%2Ego)** |
 | **309. Best Time to Buy and Sell Stock with Cooldown.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/BestTimeToBuyAndSellStockWithCooldown/BestTimeToBuyAndSellStockWithCooldown%2Ego)** |
+| **338. Counting Bits.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/CountingBits/CountingBits%2Ego)** |
+| **343. Integer Break.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/IntegerBreak/IntegerBreak%2Ego)** |
+| **357. Count Numbers with Unique Digits.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/CountNumbersWithUniqueDigits/CountNumbersWithUniqueDigits%2Ego)** |
 | **367. Valid Perfect Square.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ValidPerfectSquare/ValidPerfectSquare%2Ego)** |
 | **374. Guess Number Higher or Lower.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/GuessNumberHigherOrLower/GuessNumberHigherOrLower%2Ego)** |
+| **375. Guess Number Higher or Lower II.md** | **medium** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/DynamicProgramming/medium/GuessNumberHigherOrLowerIi/GuessNumberHigherOrLowerIi%2Ego)** |
 | **392. Is Subsequence.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/IsSubsequence/IsSubsequence%2Ego)** |
 | **441. Arranging Coins.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/BinarySearch/simple/ArrangingCoins/ArrangingCoins%2Ego)** |
 | **455. Assign Cookies.md** | **simple** | **[GO](https://github%2Ecom/LZH139/leetcode_Go/blob/master/src/Greedy/simple/AssignCookies/AssignCookies%2Ego)** |
