@@ -10,7 +10,6 @@ def construct_name(slug):
         res += word.capitalize()
     return res
 
-
 def strong(str):
     return "**"+str+"**"
 
